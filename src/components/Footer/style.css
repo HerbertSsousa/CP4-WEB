@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+
+
+.footerArruma {
+    text-align: center;
+    padding: 20px;
+    background-color: #df12bd;
+    color: #fff;
+    
+    margin-top: auto;
+  }
+  
+  .footer p {
+    margin: 20px 0;
+
+  }
+
+  .footerArruma {
+    text-align: center;
+    padding: 20px;
+    background-color: #df12bd;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+
+
